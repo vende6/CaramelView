@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CaramelView.AppHost/CaramelView.AppHost.csproj" />
+  <Project Path="CaramelView.ServiceDefaults/CaramelView.ServiceDefaults.csproj" />
+  <Project Path="CaramelView/CaramelView.csproj" />
+</Solution>
