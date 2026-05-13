@@ -4,6 +4,7 @@ using Syncfusion.Maui.Toolkit.Hosting;
 
 namespace CaramelView;
 
+//kk
 public static class MauiProgram
 {
 	public static MauiApp CreateMauiApp()
